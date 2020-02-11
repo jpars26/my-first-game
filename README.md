@@ -6,4 +6,4 @@ O conteudo abordado no jogo é sobre frações.
 
 Para acessar o jogo só entrar no site:
 
-    www.jpars26.netlify.com
+   [Acesso ao Jogo] (https://www.jpars26.netlify.com/)
